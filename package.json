@@ -1,0 +1,26 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "password generator using react",
+  "homepage": "https://github.com/Sandeepyadav2327/Password_Generator#readme",
+  "bugs": {
+    "url": "https://github.com/Sandeepyadav2327/Password_Generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepyadav2327/Password_Generator.git"
+  },
+  "license": "ISC",
+  "author": "Sandeep Yadav",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
