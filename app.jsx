@@ -23,7 +23,7 @@ function PasswordGenerator(){
     //     setPassword(pass);
     // }
     // normal likhenge to har bar jab koi bhi setpass, setleng, etc call hoga tab ye function bhi call hoga aur har bar ise heap me memory allocate hogi
-    // isse bachne k liye ham usecallback use karte hai 
+    // isse bachne k liye ham usecallback use karte hai us
 
     const generatePassword=useCallback(()=>{
         let str="abcdefghijklmnopqrstuvwsyxABCDEFGHIJKLMNOPQRSTUVWXYZ";
