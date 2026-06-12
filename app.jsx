@@ -51,8 +51,7 @@ function PasswordGenerator(){
         generatePassword();
     },[length,numberChanged,charChanged])
     // ye eak bar hi chalega bas 
-
-    return(
+   return(
         <>
         <h1>Password is:  {Password}</h1>
         <div className="second">
